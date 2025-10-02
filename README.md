@@ -1,4 +1,4 @@
-# Yumemi Coding Test
+# Vue-Training
 
 Vue.js 3 + Firebase + RESAS API を使用した都道府県データ可視化アプリケーション
 
@@ -7,7 +7,7 @@ Vue.js 3 + Firebase + RESAS API を使用した都道府県データ可視化ア
 1. リポジトリをクローン
 ```bash
 git clone <repository-url>
-cd yumemi-coding
+cd vue-training
 ```
 
 2. 依存関係をインストール
