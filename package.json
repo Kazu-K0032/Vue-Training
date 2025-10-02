@@ -1,0 +1,43 @@
+{
+  "name": "yumemi-coding",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@types/node": "^24.6.1",
+    "axios": "^1.12.2",
+    "chart.js": "^4.5.0",
+    "core-js": "^3.45.1",
+    "firebase": "^12.3.0",
+    "typescript": "^5.9.3",
+    "vue": "^3.5.22",
+    "vue-chartjs": "^5.3.2",
+    "vue-router": "^4.5.1",
+    "vuex": "^4.1.0",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.4",
+    "@babel/eslint-parser": "^7.28.4",
+    "@babel/plugin-transform-class-properties": "^7.27.1",
+    "@babel/plugin-transform-object-rest-spread": "^7.28.4",
+    "@vue/cli-plugin-babel": "~5.0.9",
+    "@vue/cli-plugin-eslint": "~5.0.9",
+    "@vue/cli-plugin-router": "~5.0.9",
+    "@vue/cli-plugin-vuex": "~5.0.9",
+    "@vue/cli-service": "~5.0.9",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "eslint-plugin-vue": "^10.5.0",
+    "node-sass": "^9.0.0",
+    "npm-check-updates": "^19.0.0",
+    "prettier": "^3.6.2",
+    "sass": "^1.93.2",
+    "sass-loader": "^16.0.5"
+  }
+}
